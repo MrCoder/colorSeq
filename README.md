@@ -1,0 +1,4 @@
+colorSeq
+========
+
+color uml sequence
